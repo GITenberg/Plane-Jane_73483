@@ -1,11 +1,16 @@
 _repo: Plane-Jane_73483
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 73483-h/images/cover.jpg
 creator:
   author:
     agent_name: Davis, Frederick C.
     gutenberg_agent_id: '37851'
     url: http://www.gutenberg.org/2009/agents/37851
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73483#Plane-Jane
 gutenberg_issued: '2024-04-27'
 gutenberg_type: Text
 identifiers:
